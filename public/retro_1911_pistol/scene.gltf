@@ -1,0 +1,498 @@
+{
+  "accessors": [
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 351,
+      "max": [
+        1.2476500272750854,
+        7.749580383300781,
+        16.978248596191406
+      ],
+      "min": [
+        -1.239983320236206,
+        -5.761091232299805,
+        -4.634317398071289
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 4212,
+      "componentType": 5126,
+      "count": 351,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 351,
+      "max": [
+        1.99609375,
+        0.9388770461082458
+      ],
+      "min": [
+        0.00390625,
+        0.00390625
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5125,
+      "count": 648,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 8,
+      "max": [
+        1.0,
+        1.0728442845220343e-07,
+        3.8213760125270935e-15,
+        0.0,
+        1.6940658945086007e-21,
+        1.0,
+        1.0,
+        0.0,
+        1.0728442845220343e-07,
+        0.0,
+        1.0,
+        0.0,
+        9.219137950822187e-07,
+        4.577884197235107,
+        0.0,
+        1.0
+      ],
+      "min": [
+        1.0,
+        -8.742289026031358e-08,
+        -5.047352047427012e-08,
+        0.0,
+        -5.047352047427012e-08,
+        -0.866025447845459,
+        0.0,
+        0.0,
+        -8.742288315488622e-08,
+        -1.0,
+        -0.8660253882408142,
+        0.0,
+        -3.2058694614534033e-06,
+        0.0,
+        -6.361448764801025,
+        1.0
+      ],
+      "type": "MAT4"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5123,
+      "count": 351,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 351,
+      "max": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "min": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "type": "VEC4"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Firewarden (https://sketchfab.com/Firewarden)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/retro-1911-pistol-6963777f522648b8a16d80db92531a34",
+      "title": "[Retro] 1911 Pistol"
+    },
+    "generator": "Sketchfab-16.16.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 2808,
+      "byteStride": 8,
+      "name": "shortBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2592,
+      "byteOffset": 2808,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2808,
+      "byteOffset": 5400,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 8424,
+      "byteOffset": 8208,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5616,
+      "byteOffset": 16632,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 512,
+      "byteOffset": 22248,
+      "name": "floatBufferViews"
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 22760,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_unlit"
+  ],
+  "images": [
+    {
+      "uri": "textures/M_45Pistol_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "name": "M_45Pistol",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "frame_M_45Pistol_0",
+      "primitives": [
+        {
+          "attributes": {
+            "JOINTS_0": 5,
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2,
+            "WEIGHTS_0": 6
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "3ae48b543b5b4e16bc4d9dc5d19ffba7.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.6292067939183141e-07,
+        -0.9999999999999868,
+        0.0,
+        0.0,
+        0.9999999999999868,
+        -1.6292067939183141e-07,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Armature"
+    },
+    {
+      "children": [
+        5,
+        7,
+        6
+      ],
+      "name": "Object_4"
+    },
+    {
+      "children": [
+        8
+      ],
+      "name": "_rootJoint"
+    },
+    {
+      "matrix": [
+        1.0000000000000115,
+        1.5271675646676264e-22,
+        -1.0249366231596943e-22,
+        0.0,
+        -1.0249366231596964e-22,
+        6.123233995736849e-17,
+        -1.0000000000000135,
+        0.0,
+        -1.5271675646676119e-22,
+        1.000000000000002,
+        6.123233995736778e-17,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Object_6"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_7",
+      "skin": 0
+    },
+    {
+      "children": [
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "name": "root_00",
+      "rotation": [
+        2.1855722565078395e-08,
+        -3.817919227213428e-23,
+        -5.3642214226101714e-08,
+        1.0
+      ]
+    },
+    {
+      "name": "slide_01",
+      "rotation": [
+        -5.530327677624904e-23,
+        3.083077319986538e-15,
+        9.735362027640804e-08,
+        1.0
+      ],
+      "translation": [
+        -4.605573167282273e-07,
+        -1.1826040744781494,
+        5.955718040466309
+      ]
+    },
+    {
+      "name": "hammer_02",
+      "rotation": [
+        -0.5,
+        -2.682110356033718e-08,
+        9.692903546465459e-08,
+        0.8660253882408142
+      ],
+      "translation": [
+        -7.61677483751555e-07,
+        1.6241414546966553,
+        4.203202724456787
+      ]
+    },
+    {
+      "name": "barrel_03",
+      "rotation": [
+        -7.837944338007219e-08,
+        -4.5474450316169545e-15,
+        9.735366290897218e-08,
+        1.0
+      ],
+      "scale": [
+        1.0,
+        0.9999999403953552,
+        1.0
+      ],
+      "translation": [
+        4.097216788068181e-06,
+        -4.577882766723633,
+        6.361449241638184
+      ]
+    },
+    {
+      "name": "trigger_04",
+      "rotation": [
+        -5.530323260003835e-23,
+        3.0830771082283014e-15,
+        9.735361317098068e-08,
+        1.0
+      ],
+      "translation": [
+        -1.7696001464173605e-07,
+        -3.8260200023651123,
+        2.3695335388183594
+      ]
+    },
+    {
+      "children": [
+        14
+      ],
+      "name": "magazine_05",
+      "rotation": [
+        -0.5867636799812317,
+        -3.147531657532454e-08,
+        9.741802386997733e-08,
+        0.8097582459449768
+      ],
+      "translation": [
+        -2.2091010123403976e-06,
+        -0.5208165645599365,
+        0.7354074120521545
+      ]
+    },
+    {
+      "name": "magazine_attach_06",
+      "rotation": [
+        0.5867636799812317,
+        -2.564824619355477e-08,
+        -1.8585126326797763e-08,
+        0.8097582459449768
+      ],
+      "scale": [
+        1.0,
+        0.9999998807907104,
+        0.9999999403953552
+      ],
+      "translation": [
+        3.075664096741093e-07,
+        1.0740553140640259,
+        -0.037839457392692566
+      ]
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9728,
+      "minFilter": 9728,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "skins": [
+    {
+      "inverseBindMatrices": 4,
+      "joints": [
+        5,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "skeleton": 5
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}

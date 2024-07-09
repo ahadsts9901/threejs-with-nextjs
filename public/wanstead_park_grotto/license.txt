@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wanstead Park Grotto
+* source:	https://sketchfab.com/3d-models/wanstead-park-grotto-dc8b4f2a452246569bf24195e617db82
+* author:	artfletch (https://sketchfab.com/artfletch)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wanstead Park Grotto" (https://sketchfab.com/3d-models/wanstead-park-grotto-dc8b4f2a452246569bf24195e617db82) by artfletch (https://sketchfab.com/artfletch) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

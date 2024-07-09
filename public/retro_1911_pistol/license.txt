@@ -1,0 +1,11 @@
+Model Information:
+* title:	[Retro] 1911 Pistol
+* source:	https://sketchfab.com/3d-models/retro-1911-pistol-6963777f522648b8a16d80db92531a34
+* author:	Firewarden (https://sketchfab.com/Firewarden)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "[Retro] 1911 Pistol" (https://sketchfab.com/3d-models/retro-1911-pistol-6963777f522648b8a16d80db92531a34) by Firewarden (https://sketchfab.com/Firewarden) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
