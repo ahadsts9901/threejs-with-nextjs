@@ -1,5 +1,5 @@
 import { redirect } from "next/navigation"
 
-const Page = () => redirect("/monster")
+const Page = () => redirect("/jet")
 
 export default Page
