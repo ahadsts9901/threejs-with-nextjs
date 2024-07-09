@@ -12,6 +12,7 @@ const Header = () => {
             <div className="header">
                 <p onClick={() => router.push("/jet")}>Jet</p>
                 <p onClick={() => router.push("/stone-valley")}>Stones</p>
+                <p onClick={() => router.push("/monster")}>Monster</p>
             </div>
         </>
     )
